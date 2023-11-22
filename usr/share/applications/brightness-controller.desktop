@@ -8,3 +8,4 @@ Type=Application
 Categories=Utility
 StartupNotify=true
 Name[en_US]=Brightness Controller
+StartupWMClass=init.py
